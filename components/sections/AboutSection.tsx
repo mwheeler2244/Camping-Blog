@@ -25,7 +25,7 @@ const AboutSection: React.FC = () => {
               <h2
                 className={`text-[clamp(3rem,7vw,8rem)] font-black leading-[0.8] uppercase tracking-tight mb-8 ${lato.className}`}
               >
-                Hi, I'm
+                Hi, I&apos;m
                 <br />
                 <span className="text-orange-400">Nomorra</span>
               </h2>

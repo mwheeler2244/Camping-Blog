@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { X, MapPin, Star, Clock, Users, Eye, Mountain } from "lucide-react";
+import { X, MapPin, Eye, Mountain } from "lucide-react";
 import { Lato } from "next/font/google";
 import { ModalProps } from "@/types";
 import StarRating from "./ui/StarRating";

@@ -11,7 +11,7 @@ import {
   Instagram,
   Youtube,
 } from "lucide-react";
-import { NavigationProps, SocialLink } from "@/types";
+import { NavigationProps } from "@/types";
 
 const handleSmoothScroll = (e: React.MouseEvent, sectionId: string): void => {
   e.preventDefault();
