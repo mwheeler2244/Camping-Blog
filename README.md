@@ -1,6 +1,6 @@
 # Nomorra - National Parks Blog
 
-![Nomorra Screenshot](https://github.com/yourusername/nomorra-blog/blob/main/screenshot.png)
+![Nomorra Screenshot](public/ss.png)
 
 A modern National Parks blog built with Next.js, TypeScript, and Tailwind CSS. Features destination galleries, search functionality, and Instagram-style photo sections.
 
