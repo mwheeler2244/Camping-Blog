@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
-import { MapPin, Star, ArrowRight } from "lucide-react";
+import { MapPin } from "lucide-react";
 import { Lato } from "next/font/google";
 import { DestinationCardProps } from "@/types";
-import StarRating from "../ui/StarRating";
+import StarRating from "@/components/ui/StarRating";
 
 const lato = Lato({
   subsets: ["latin"],

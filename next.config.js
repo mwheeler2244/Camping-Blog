@@ -26,8 +26,6 @@ const nextConfig = {
   experimental: {
     optimizeCss: true,
   },
-  // Optimize bundle
-  swcMinify: true,
   // Enable compression
   compress: true,
   // Generate etags for better caching

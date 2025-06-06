@@ -56,7 +56,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
           <p
             className={`text-[clamp(0.75rem,2vw,1rem)] tracking-[0.2em] uppercase text-white/90 mb-12 ${lato.className}`}
           >
-            My Blog Through America's best national parks
+            My Blog Through America&apos;s best national parks
           </p>
         </div>
 

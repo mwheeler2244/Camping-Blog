@@ -170,7 +170,7 @@ const NationalParksBlog: React.FC = () => {
                   <div className="space-y-4">
                     <p className="text-white text-lg font-light leading-relaxed">
                       Discover breathtaking landscapes and unforgettable
-                      experiences from America's wilderness.
+                      experiences from America&apos;s wilderness.
                     </p>
                     <div className="flex md:justify-end gap-4 text-xs text-gray-500 font-mono">
                       <span className="bg-gray-900 px-3 py-1">
@@ -436,7 +436,7 @@ const NationalParksBlog: React.FC = () => {
                   No Stories Found
                 </h3>
                 <p className="text-lg font-light leading-relaxed mb-8">
-                  We couldn't find any stories matching your search. Try
+                  We couldn&apos;t find any stories matching your search. Try
                   exploring different keywords.
                 </p>
                 <button
@@ -632,7 +632,7 @@ const NationalParksBlog: React.FC = () => {
                 </div>
                 <div className="col-span-12 md:col-span-4 md:text-right">
                   <p className="text-white text-lg font-light leading-relaxed">
-                    Ready to explore America's wilderness together?
+                    Ready to explore America&apos;s wilderness together?
                   </p>
                 </div>
               </div>
@@ -650,8 +650,8 @@ const NationalParksBlog: React.FC = () => {
                   <div className="w-16 h-1 bg-orange-400"></div>
                   <p className="text-white text-lg font-light leading-relaxed">
                     Documenting authentic wilderness experiences across
-                    America's most treasured landscapes. Every trail tells a
-                    story.
+                    America&apos;s most treasured landscapes. Every trail tells
+                    a story.
                   </p>
                 </div>
 

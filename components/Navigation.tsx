@@ -11,17 +11,7 @@ import {
   Instagram,
   Youtube,
 } from "lucide-react";
-import { Lato } from "next/font/google";
-
-const lato = Lato({
-  subsets: ["latin"],
-  weight: ["100", "300", "400", "700", "900"],
-});
-
-interface NavigationProps {
-  isMobileMenuOpen: boolean;
-  setIsMobileMenuOpen: (open: boolean) => void;
-}
+import { NavigationProps, SocialLink } from "@/types";
 
 const handleSmoothScroll = (e: React.MouseEvent, sectionId: string): void => {
   e.preventDefault();

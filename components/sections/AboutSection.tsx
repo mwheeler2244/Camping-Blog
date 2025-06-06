@@ -35,10 +35,10 @@ const AboutSection: React.FC = () => {
               <div className="space-y-6">
                 <div className="w-20 h-2 bg-black"></div>
                 <p className="text-xl leading-relaxed font-light">
-                  A passionate explorer documenting my journey through America's
-                  most breathtaking national parks. What started as weekend
-                  getaways has evolved into a deep love affair with the
-                  wilderness.
+                  A passionate explorer documenting my journey through
+                  America&apos;s most breathtaking national parks. What started
+                  as weekend getaways has evolved into a deep love affair with
+                  the wilderness.
                 </p>
               </div>
 
