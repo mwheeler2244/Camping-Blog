@@ -1,5 +1,7 @@
 # Nomorra - National Parks Blog
 
+![Nomorra Screenshot](https://github.com/yourusername/nomorra-blog/blob/main/screenshot.png)
+
 A modern National Parks blog built with Next.js, TypeScript, and Tailwind CSS. Features destination galleries, search functionality, and Instagram-style photo sections.
 
 ## Features
@@ -19,15 +21,3 @@ A modern National Parks blog built with Next.js, TypeScript, and Tailwind CSS. F
 - **Lucide React** - Icons
 - **React Toastify** - Notifications
 
-## Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/nomorra-blog.git
-cd nomorra-blog
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
