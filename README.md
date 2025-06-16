@@ -1,6 +1,6 @@
-# Michael - National Parks Blog
+# Travel - National Parks Blog
 
-![Michael Screenshot](public/ss.png)
+![Travel Screenshot](public/ss.png)
 
 A modern National Parks blog built with Next.js, TypeScript, and Tailwind CSS. Features destination galleries, search functionality, and Instagram-style photo sections.
 

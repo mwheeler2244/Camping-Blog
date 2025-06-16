@@ -90,8 +90,8 @@ const AboutSection: React.FC = () => {
         <div className="col-span-12 lg:col-span-5 bg-black text-white relative">
           <div className="relative h-96 lg:h-[60vh]">
             <Image
-              src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-              alt="Michael camping by a pristine lake"
+              src="https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="Travel camping by a pristine lake"
               fill
               className="object-cover"
               loading="lazy"
@@ -117,7 +117,7 @@ const AboutSection: React.FC = () => {
           <div className="grid grid-cols-2 h-48 lg:h-[40vh]">
             <div className="relative overflow-hidden border-r-2 border-white">
               <Image
-                src="https://images.unsplash.com/photo-1682685797406-97f364419b4a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://images.unsplash.com/photo-1683009427513-28e163402d16?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Campfire at sunset"
                 fill
                 className="object-cover filter hover:grayscale-0 transition-all duration-500"
@@ -132,7 +132,7 @@ const AboutSection: React.FC = () => {
 
             <div className="relative overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1683009427513-28e163402d16?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://images.unsplash.com/photo-1594018798100-f70918ce1b64?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Mountain hiking trail"
                 fill
                 className="object-cover filter hover:grayscale-0 transition-all duration-500"

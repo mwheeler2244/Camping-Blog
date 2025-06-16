@@ -481,7 +481,7 @@ const NationalParksBlog: React.FC = () => {
                 </p>
                 <div className="flex md:justify-end gap-4 text-xs text-gray-400 font-mono">
                   <span className="bg-gray-900 px-3 py-1">DAILY UPDATES</span>
-                  <span className="bg-gray-900 px-3 py-1">@MICHAEL</span>
+                  <span className="bg-gray-900 px-3 py-1">@TRAVEL</span>
                 </div>
               </div>
             </div>
@@ -643,7 +643,7 @@ const NationalParksBlog: React.FC = () => {
                 <div className="flex items-center mb-8">
                   <Mountain className="h-12 w-12 text-orange-400 mr-4" />
                   <span className="text-3xl font-black text-white uppercase tracking-tight">
-                    Michael
+                    Travel
                   </span>
                 </div>
                 <div className="space-y-6">
@@ -660,15 +660,13 @@ const NationalParksBlog: React.FC = () => {
                     <div className="text-2xl font-black text-orange-400">
                       25+
                     </div>
-                    <div className="text-xs font-black uppercase tracking-wide">
+                    <div className="text-xs text-white uppercase tracking-wide">
                       Parks
                     </div>
                   </div>
                   <div className="border-2 border-white p-4 hover:bg-white hover:text-black transition-colors duration-300">
-                    <div className="text-2xl font-black text-orange-400">
-                      500+
-                    </div>
-                    <div className="text-xs font-black uppercase tracking-wide">
+                    <div className="text-2xl text-orange-400">500+</div>
+                    <div className="text-xs text-white uppercase tracking-wide">
                       Miles
                     </div>
                   </div>
@@ -676,7 +674,7 @@ const NationalParksBlog: React.FC = () => {
                     <div className="text-2xl font-black text-orange-400">
                       3+
                     </div>
-                    <div className="text-xs font-black uppercase tracking-wide">
+                    <div className="text-xs text-white uppercase tracking-wide">
                       Years
                     </div>
                   </div>
@@ -717,7 +715,7 @@ const NationalParksBlog: React.FC = () => {
                 <div className="space-y-4 mb-8">
                   <div className="flex items-center gap-3 text-white">
                     <Mail size={16} className="text-orange-400" />
-                    <span className="font-mono text-sm">hello@michael.com</span>
+                    <span className="font-mono text-sm">hello@travel.com</span>
                   </div>
                   <div className="flex items-center gap-3 text-white">
                     <MapPin size={16} className="text-orange-400" />
@@ -729,22 +727,22 @@ const NationalParksBlog: React.FC = () => {
                   {[
                     {
                       name: "Instagram",
-                      url: "https://instagram.com/michael_explores",
+                      url: "https://instagram.com/travel_explores",
                       icon: Instagram,
                     },
                     {
                       name: "YouTube",
-                      url: "https://youtube.com/@michael",
+                      url: "https://youtube.com/@travel",
                       icon: Youtube,
                     },
                     {
                       name: "Twitter",
-                      url: "https://twitter.com/michael",
+                      url: "https://twitter.com/travel",
                       icon: Twitter,
                     },
                     {
                       name: "Facebook",
-                      url: "https://facebook.com/michael",
+                      url: "https://facebook.com/travel",
                       icon: Facebook,
                     },
                   ].map((social) => (
@@ -769,7 +767,7 @@ const NationalParksBlog: React.FC = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="text-gray-400 text-sm mb-4 md:mb-0 font-mono">
-                © 2025 MICHAEL — ALL RIGHTS RESERVED
+                © 2025 TRAVEL — ALL RIGHTS RESERVED
               </div>
               <div className="flex gap-8">
                 {["Privacy", "Terms", "Standards"].map((link) => (
