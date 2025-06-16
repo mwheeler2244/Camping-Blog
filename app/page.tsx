@@ -481,7 +481,7 @@ const NationalParksBlog: React.FC = () => {
                 </p>
                 <div className="flex md:justify-end gap-4 text-xs text-gray-400 font-mono">
                   <span className="bg-gray-900 px-3 py-1">DAILY UPDATES</span>
-                  <span className="bg-gray-900 px-3 py-1">@NOMORRA</span>
+                  <span className="bg-gray-900 px-3 py-1">@MICHAEL</span>
                 </div>
               </div>
             </div>
@@ -643,7 +643,7 @@ const NationalParksBlog: React.FC = () => {
                 <div className="flex items-center mb-8">
                   <Mountain className="h-12 w-12 text-orange-400 mr-4" />
                   <span className="text-3xl font-black text-white uppercase tracking-tight">
-                    Nomorra
+                    Michael
                   </span>
                 </div>
                 <div className="space-y-6">
@@ -717,7 +717,7 @@ const NationalParksBlog: React.FC = () => {
                 <div className="space-y-4 mb-8">
                   <div className="flex items-center gap-3 text-white">
                     <Mail size={16} className="text-orange-400" />
-                    <span className="font-mono text-sm">hello@nomorra.com</span>
+                    <span className="font-mono text-sm">hello@michael.com</span>
                   </div>
                   <div className="flex items-center gap-3 text-white">
                     <MapPin size={16} className="text-orange-400" />
@@ -729,22 +729,22 @@ const NationalParksBlog: React.FC = () => {
                   {[
                     {
                       name: "Instagram",
-                      url: "https://instagram.com/nomorra_explores",
+                      url: "https://instagram.com/michael_explores",
                       icon: Instagram,
                     },
                     {
                       name: "YouTube",
-                      url: "https://youtube.com/@nomorra",
+                      url: "https://youtube.com/@michael",
                       icon: Youtube,
                     },
                     {
                       name: "Twitter",
-                      url: "https://twitter.com/nomorra",
+                      url: "https://twitter.com/michael",
                       icon: Twitter,
                     },
                     {
                       name: "Facebook",
-                      url: "https://facebook.com/nomorra",
+                      url: "https://facebook.com/michael",
                       icon: Facebook,
                     },
                   ].map((social) => (
@@ -769,7 +769,7 @@ const NationalParksBlog: React.FC = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="text-gray-400 text-sm mb-4 md:mb-0 font-mono">
-                © 2025 NOMORRA — ALL RIGHTS RESERVED
+                © 2025 MICHAEL — ALL RIGHTS RESERVED
               </div>
               <div className="flex gap-8">
                 {["Privacy", "Terms", "Standards"].map((link) => (

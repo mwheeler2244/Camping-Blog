@@ -27,7 +27,7 @@ const AboutSection: React.FC = () => {
               >
                 Hi, I&apos;m
                 <br />
-                <span className="text-orange-400">Nomorra</span>
+                <span className="text-orange-400">Michael</span>
               </h2>
             </div>
 
@@ -91,7 +91,7 @@ const AboutSection: React.FC = () => {
           <div className="relative h-96 lg:h-[60vh]">
             <Image
               src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-              alt="Nomorra camping by a pristine lake"
+              alt="Michael camping by a pristine lake"
               fill
               className="object-cover"
               loading="lazy"

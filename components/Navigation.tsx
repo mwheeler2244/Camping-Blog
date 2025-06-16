@@ -38,7 +38,7 @@ const Navigation: React.FC<NavigationProps> = ({
             </div>
             <div className="text-white">
               <div className="text-xl font-black uppercase tracking-tight">
-                Nomorra
+                Michael
               </div>
               <div className="text-xs font-mono uppercase tracking-widest opacity-80">
                 Blogs
@@ -149,7 +149,7 @@ const Navigation: React.FC<NavigationProps> = ({
                 <div className="flex items-center">
                   <Mountain className="h-8 w-8 text-orange-400 mr-3" />
                   <span className="text-xl font-black text-white uppercase tracking-tight">
-                    Nomorra
+                    Michael
                   </span>
                 </div>
                 <button

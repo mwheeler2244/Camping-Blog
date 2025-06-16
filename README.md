@@ -1,13 +1,13 @@
-# Nomorra - National Parks Blog
+# Michael - National Parks Blog
 
-![Nomorra Screenshot](public/ss.png)
+![Michael Screenshot](public/ss.png)
 
 A modern National Parks blog built with Next.js, TypeScript, and Tailwind CSS. Features destination galleries, search functionality, and Instagram-style photo sections.
 
 ## Features
 
 - 🏔️ Responsive destination showcase
-- 🔍 Real-time search functionality  
+- 🔍 Real-time search functionality
 - 📸 Instagram-style photo gallery
 - 🎨 Modern black/orange design theme
 - ⚡ Optimized performance with lazy loading
@@ -20,4 +20,3 @@ A modern National Parks blog built with Next.js, TypeScript, and Tailwind CSS. F
 - **Tailwind CSS** - Styling
 - **Lucide React** - Icons
 - **React Toastify** - Notifications
-
