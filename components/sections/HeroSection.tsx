@@ -31,7 +31,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
     <section className="relative overflow-hidden h-screen mb-20">
       <div className="absolute inset-0">
         <Image
-          src="https://images.unsplash.com/photo-1718731232787-10c18cb7eb61?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          src="https://images.unsplash.com/photo-1622622282844-bfa18970ab1f?q=80&w=1744&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Mountain landscape"
           fill
           className="object-cover"
