@@ -1,6 +1,6 @@
 # Travel - National Parks Blog
 
-![Travel Screenshot](public/ss.png)
+![Travel Screenshot](ss.png)
 
 👉 [Launch the App](https://camping-blog-gxyn.vercel.app/)
 
